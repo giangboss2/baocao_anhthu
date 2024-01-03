@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971531289189",
+    "project_id": "traveling-online-app",
+    "storage_bucket": "traveling-online-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971531289189:android:1549ba228c6f9d58fc7c8c",
+        "android_client_info": {
+          "package_name": "project.anhthu.travelinvietnam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFH_WHhGTOTJq3Fy1-ozkDW6p38PTJTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
